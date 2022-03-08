@@ -15,10 +15,19 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+<<<<<<< Updated upstream
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
+=======
+  #Blog: "blog/index"
+  Publications: "publications"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Author's home: "https://deanattali.com"
+>>>>>>> Stashed changes
 
 # --- Logo --- #
 
