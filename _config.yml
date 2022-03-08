@@ -15,6 +15,7 @@ author: Mark Pritchard
 
 navbar-links:
   About Me: "aboutme"
+  Blog: "blog/index"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
