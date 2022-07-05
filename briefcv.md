@@ -12,7 +12,9 @@ subtitle:
 * DPhil Student in Clinical Medicine, *University of Oxford*, since 2021 
 
 
+
 ## Previous roles 
+
 
 * Trust Grade Doctor in Infectious Diseases, *Leicester Royal Infirmary*, 2017
 * Trust Grade Doctor in Intensive Care Medicine, *Royal Stoke University Hospital*, 2016--17
@@ -23,7 +25,10 @@ subtitle:
 * Audit Assistant, *West Midlands NHS Breast Cancer Screening Programme*, 2004--06
 
 
+
 ## Education 
+=======
+
 
 * Membership [MFPH], *Faculty of Public Health*, 2019
 * MSc Global Health Science, *University of Oxford*, 2018
@@ -79,5 +84,4 @@ Pritchard MG, Lenney W, Gilchrist FJ. Outcomes in children with protracted bacte
 
 select
 Pritchard MG, Townend JN, Lester WA, England DW, Kearins O, Bradley SA. Management of patients taking antiplatelet or anticoagulant medication requiring invasive breast procedures: United Kingdom survey of radiologists' and surgeons' current practice. Clin Radiol. 2008 Mar;63(3):305-11. doi: 10.1016/j.crad.2007.09.006. PubMed PMID: 18275871.
-=======
->>>>>>> parent of e316331 (delete - to redesign)
+
