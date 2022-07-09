@@ -4,25 +4,29 @@ title: Publications
 subtitle: 
 ---
 
-This is a list of my publications (last updated July 2022). You cal also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en)
+This is a list of my publications (last updated July 2022). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
+
+## Publication list
 
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
-S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C.W. Turtle, P.J.M. Openshaw, J.K. Baillie, A. Docherty, M.G. Semple, M. Noursadeghi, E.M. Harrison; ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Investigators.  
-_Thorax_ **77**: 606--615 (2022)  
-[Full text free online at doi: 10.1136/thoraxjnl-2021-217629](https://thorax.bmj.com/content/77/6/606.info)
+ S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C.W. Turtle, P.J.M. Openshaw, J.K. Baillie, A. Docherty, M.G. Semple, M. Noursadeghi, E.M. Harrison; ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Investigators  
+ _Thorax_ **77**: 606--615 (2022)  
+ [Full text free online at doi: 10.1136/thoraxjnl-2021-217629](https://thorax.bmj.com/content/77/6/606.info)
 
 **Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort**  
-ISARIC Clinical Characterisation Group; M.D. Hall, J. Baruch, G. Carson, B.W. Citarella, A. Dagens, E.A. Dankwa, C.A. Donnelly, J. Dunning, M. Escher, C. Kartsonaki, L. Merson, **M. Pritchard**, J. Wei, P.W. Horby, A. Rojek, P.L. Olliaro.  
-_Elife_ **10**: e70970 (2021)  
-[Full text free online at doi: 10.7554/eLife.70970](https://doi.org/10.7554/elife.70970)
+ ISARIC Clinical Characterisation Group; M.D. Hall, J. Baruch, G. Carson, B.W. Citarella, A. Dagens, E.A. Dankwa, C.A. Donnelly, J. Dunning, M. Escher, C. Kartsonaki, L. Merson, **M. Pritchard**, J. Wei, P.W. Horby, A. Rojek, P.L. Olliaro  
+ _Elife_ **10**: e70970 (2021)  
+ [Full text free online at doi: 10.7554/eLife.70970](https://doi.org/10.7554/elife.70970)
 
 **COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study**
-ISARIC Clinical Characterisation Group [Corresponding author: **M.G. Pritchard**]  
-_Infection_ **49**: 889--905 (2021)  
-[Full text free online at doi: 10.1007/s15010-021-01599-5](https://doi.org/10.1007/s15010-021-01599-5)
+ ISARIC Clinical Characterisation Group [Corresponding author: **M.G. Pritchard**]  
+ _Infection_ **49**: 889--905 (2021)  
+ [Full text free online at doi: 10.1007/s15010-021-01599-5](https://doi.org/10.1007/s15010-021-01599-5)
 
-**Stop COVID Cohort: An Observational Study of 3480 Patients Admitted to the Sechenov University Hospital Network in Moscow City for Suspected Coronavirus Disease 2019 (COVID-19) Infection**.
-Munblit D, Nekliudov NA, Bugaeva P, Blyuss O, Kislova M, Listovskaya E, Gamirova A, Shikhaleva A, Belyaev V, Timashev P, Warner JO, Comberiati P, Apfelbacher C, Bezrukov E, Politov ME, Yavorovskiy A, Bulanova E, Tsareva N, Avdeev S, Kapustina VA, Pigolkin YI, Dankwa EA, Kartsonaki C, Pritchard MG, Fomin V, Svistunov AA, Butnaru D, Glybochko P. Clin Infect Dis. 2021 Jul 1;73(1):1-11. doi: 10.1093/cid/ciaa1535. 
+**Stop COVID Cohort: An Observational Study of 3480 Patients Admitted to the Sechenov University Hospital Network in Moscow City for Suspected Coronavirus Disease 2019 (COVID-19) Infection**  
+ D. Munblit, N.A. Nekliudov, P. Bugaeva, O. Blyuss, M. Kislova, E. Listovskaya, A. Gamirova, A. Shikhaleva, V. Belyaev, P. Timashev, J.O. Warner, P. Comberiati, C. Apfelbacher, E. Bezrukov, M.E. Politov, A. Yavorovskiy, E. Bulanova, N. Tsareva, S. Avdeev, V.A. Kapustina, Y.I. Pigolkin, E.A. Dankwa, C. Kartsonaki, M.G. Pritchard, V. Fomin, A.A. Svistunov, D. Butnaru, P. Glybochko; Sechenov StopCOVID Research Team  
+ _Clinical Infectious Diseases 73: 1--11 (2021)  
+ [Full text free online at doi: 10.1093/cid/ciaa1535](https://doi.org/10.1093/cid/ciaa1535)
 
 **Evaluating clinical characteristics studies produced early in the Covid-19 pandemic: A systematic review**
 Manoharan L, Cattrall JWS, Harris C, Newell K, Thomson B, Pritchard MG, Bannister PG, Sigfrid L, Solomon T, Horby PW, Carson G, Olliaro P. PLoS One. 2021;16(5):e0251250. doi: 10.1371/journal.pone.0251250. eCollection 2021. PubMed PMID: 34003850; PubMed Central PMCID: PMC8130955.
