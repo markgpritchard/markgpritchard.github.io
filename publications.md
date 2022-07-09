@@ -11,13 +11,11 @@ S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Du
 _Thorax_ **77**:606--615 (2022)  
 [Full text free online doi: 10.1136/thoraxjnl-2021-217629](https://thorax.bmj.com/content/77/6/606.info)
 
+**Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort**  
+ISARIC Clinical Characterisation Group; M.D. Hall, J. Baruch, G. Carson, B.W. Citarella, A. Dagens, E.A. Dankwa, C.A. Donnelly, J. Dunning, M. Escher, C. Kartsonaki, L. Merson, **M. Pritchard**, J. Wei, P.W. Horby, A. Rojek, P.L. Olliaro.  
+_Elife_ **10**: e70970 (2021)
+[Full text free online doi: 10.7554/eLife.70970](https://doi.org/10.7554/elife.70970)
 
-. Epub 2021 Nov 22. PubMed PMID: 34810237; PubMed Central PMCID: PMC8610617.
-
-select
-Hall MD, Baruch J, Carson G, Citarella BW, Dagens A, Dankwa EA, Donnelly CA, Dunning J, Escher M, Kartsonaki C, Merson L, Pritchard M, Wei J, Horby PW, Rojek A, Olliaro PL. Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort. Elife. 2021 Nov 23;10. doi: 10.7554/eLife.70970. PubMed PMID: 34812731; PubMed Central PMCID: PMC8791638.
-
-select
 COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study. Infection. 2021 Oct;49(5):889-905. doi: 10.1007/s15010-021-01599-5. Epub 2021 Jun 25. PubMed PMID: 34170486; PubMed Central PMCID: PMC8231091.
 
 select
