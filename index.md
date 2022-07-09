@@ -1,10 +1,10 @@
 ---
-layout: home
+layout: page
 title: Mark Pritchard
 subtitle: 
 ---
 
-<img style="float: left; padding: 0px 50px 50px 0px;" width="300" height="300" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/IMG_0598.jpg?raw=true" alt="Mark Pritchard, photographed in southern Utah near Monument Valley"/>
+<img style="float: left; padding: 0px 50px 50px 0px;" width="350" height="350" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/IMG_0598.jpg?raw=true" alt="Mark Pritchard, photographed in southern Utah near Monument Valley"/>
 
 I am a public health registrar in the Thames Valley, and a PhD student modelling infectious disease dynamics at the University of Oxford. 
 
