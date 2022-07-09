@@ -9,9 +9,9 @@ This is a list of my publications (last updated July 2022). You can also find my
 ## Peer-reviewed journal publications
 
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
-  S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C.W. Turtle, P.J.M. Openshaw, J.K. Baillie, A. Docherty, M.G. Semple, M. Noursadeghi, E.M. Harrison; ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Investigators  
-  _Thorax_ **77**: 606--615 (2022)  
-  [Full text free online at doi: 10.1136/thoraxjnl-2021-217629](https://thorax.bmj.com/content/77/6/606.info)
+    S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C.W. Turtle, P.J.M. Openshaw, J.K. Baillie, A. Docherty, M.G. Semple, M. Noursadeghi, E.M. Harrison; ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Investigators  
+    _Thorax_ **77**: 606--615 (2022)  
+    [Full text free online at doi: 10.1136/thoraxjnl-2021-217629](https://thorax.bmj.com/content/77/6/606.info)
 
 **Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort**  
  ISARIC Clinical Characterisation Group; M.D. Hall, J. Baruch, G. Carson, B.W. Citarella, A. Dagens, E.A. Dankwa, C.A. Donnelly, J. Dunning, M. Escher, C. Kartsonaki, L. Merson, **M. Pritchard**, J. Wei, P.W. Horby, A. Rojek, P.L. Olliaro  
