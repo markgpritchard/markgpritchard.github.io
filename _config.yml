@@ -14,8 +14,10 @@ author: Mark Pritchard
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Blog: "blog/index"
+  Publications: "publications"
+  Pictures: "pictures"  
+# About Me: "aboutme"
+# Blog: "blog/index"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
