@@ -17,7 +17,7 @@ _Elife_ **10**: e70970 (2021)
 [Full text free online at doi: 10.7554/eLife.70970](https://doi.org/10.7554/elife.70970)
 
 **COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study**
-ISARIC Clinical Characterisation Group [Corresponding author: **M.G. Pritchard**]
+ISARIC Clinical Characterisation Group [Corresponding author: **M.G. Pritchard**]  
 _Infection_ **49**: 889--905 (2021)  
 [Full text free online at doi: 10.1007/s15010-021-01599-5](https://doi.org/10.1007/s15010-021-01599-5)
 
