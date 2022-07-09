@@ -25,11 +25,13 @@ This is a list of my publications (last updated July 2022). You can also find my
 
 **Stop COVID Cohort: An Observational Study of 3480 Patients Admitted to the Sechenov University Hospital Network in Moscow City for Suspected Coronavirus Disease 2019 (COVID-19) Infection**  
  D. Munblit, N.A. Nekliudov, P. Bugaeva, O. Blyuss, M. Kislova, E. Listovskaya, A. Gamirova, A. Shikhaleva, V. Belyaev, P. Timashev, J.O. Warner, P. Comberiati, C. Apfelbacher, E. Bezrukov, M.E. Politov, A. Yavorovskiy, E. Bulanova, N. Tsareva, S. Avdeev, V.A. Kapustina, Y.I. Pigolkin, E.A. Dankwa, C. Kartsonaki, M.G. Pritchard, V. Fomin, A.A. Svistunov, D. Butnaru, P. Glybochko; Sechenov StopCOVID Research Team  
- _Clinical Infectious Diseases 73: 1--11 (2021)  
+ _Clinical Infectious Diseases_ **73**: 1--11 (2021)  
  [Full text free online at doi: 10.1093/cid/ciaa1535](https://doi.org/10.1093/cid/ciaa1535)
 
-**Evaluating clinical characteristics studies produced early in the Covid-19 pandemic: A systematic review**
-Manoharan L, Cattrall JWS, Harris C, Newell K, Thomson B, Pritchard MG, Bannister PG, Sigfrid L, Solomon T, Horby PW, Carson G, Olliaro P. PLoS One. 2021;16(5):e0251250. doi: 10.1371/journal.pone.0251250. eCollection 2021. PubMed PMID: 34003850; PubMed Central PMCID: PMC8130955.
+**Evaluating clinical characteristics studies produced early in the Covid-19 pandemic: A systematic review**  
+ L. Manoharan, J.W.S. Cattrall, C. Harris, K. Newell, B. Thomson, M.G. Pritchard, P.G. Bannister, L. Sigfrid, T. Solomon, P.W. Horby, G. Carson, P. Olliaro  
+ _PLoS One_ **16**: e0251250 (2021)  
+ [Full text free online at doi: 10.1371/journal.pone.0251250](https://doi.org/10.1371/journal.pone.0251250)
 
 **Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study**
 Gupta RK, Harrison EM, Ho A, Docherty AB, Knight SR, van Smeden M, Abubakar I, Lipman M, Quartagno M, Pius R, Buchan I, Carson G, Drake TM, Dunning J, Fairfield CJ, Gamble C, Green CA, Halpin S, Hardwick HE, Holden KA, Horby PW, Jackson C, Mclean KA, Merson L, Nguyen-Van-Tam JS, Norman L, Olliaro PL, Pritchard MG, Russell CD, Scott-Brown J, Shaw CA, Sheikh A, Solomon T, Sudlow C, Swann OV, Turtle L, Openshaw PJM, Baillie JK, Semple MG, Noursadeghi M. Lancet Respir Med. 2021 Apr;9(4):349-359. doi: 10.1016/S2213-2600(20)30559-2. Epub 2021 Jan 11. PubMed PMID: 33444539; PubMed Central PMCID: PMC7832571.
