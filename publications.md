@@ -6,7 +6,7 @@ subtitle:
 
 This is a list of my publications (last updated July 2022). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
 
-## Publication list
+## Peer-reviewed journal publications
 
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
   S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C.W. Turtle, P.J.M. Openshaw, J.K. Baillie, A. Docherty, M.G. Semple, M. Noursadeghi, E.M. Harrison; ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Investigators  
