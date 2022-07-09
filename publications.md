@@ -9,14 +9,17 @@ This is a list of my publications (last updated July 2022). You cal also find my
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
 S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C.W. Turtle, P.J.M. Openshaw, J.K. Baillie, A. Docherty, M.G. Semple, M. Noursadeghi, E.M. Harrison; ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Investigators.  
 _Thorax_ **77**:606--615 (2022)  
-[Full text free online doi: 10.1136/thoraxjnl-2021-217629](https://thorax.bmj.com/content/77/6/606.info)
+[Full text free online at doi: 10.1136/thoraxjnl-2021-217629](https://thorax.bmj.com/content/77/6/606.info)
 
 **Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort**  
 ISARIC Clinical Characterisation Group; M.D. Hall, J. Baruch, G. Carson, B.W. Citarella, A. Dagens, E.A. Dankwa, C.A. Donnelly, J. Dunning, M. Escher, C. Kartsonaki, L. Merson, **M. Pritchard**, J. Wei, P.W. Horby, A. Rojek, P.L. Olliaro.  
-_Elife_ **10**: e70970 (2021)
-[Full text free online doi: 10.7554/eLife.70970](https://doi.org/10.7554/elife.70970)
+_Elife_ **10**: e70970 (2021)  
+[Full text free online at doi: 10.7554/eLife.70970](https://doi.org/10.7554/elife.70970)
 
-COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study. Infection. 2021 Oct;49(5):889-905. doi: 10.1007/s15010-021-01599-5. Epub 2021 Jun 25. PubMed PMID: 34170486; PubMed Central PMCID: PMC8231091.
+**COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study**
+ISARIC Clinical Characterisation Group [Corresponding author: **M.G. Pritchard**]
+_Infection_ **49**: 889--905 (2021)  
+[Full text free online at doi: 10.1007/s15010-021-01599-5](https://doi.org/10.1007/s15010-021-01599-5)
 
 select
 Munblit D, Nekliudov NA, Bugaeva P, Blyuss O, Kislova M, Listovskaya E, Gamirova A, Shikhaleva A, Belyaev V, Timashev P, Warner JO, Comberiati P, Apfelbacher C, Bezrukov E, Politov ME, Yavorovskiy A, Bulanova E, Tsareva N, Avdeev S, Kapustina VA, Pigolkin YI, Dankwa EA, Kartsonaki C, Pritchard MG, Fomin V, Svistunov AA, Butnaru D, Glybochko P. Stop COVID Cohort: An Observational Study of 3480 Patients Admitted to the Sechenov University Hospital Network in Moscow City for Suspected Coronavirus Disease 2019 (COVID-19) Infection. Clin Infect Dis. 2021 Jul 1;73(1):1-11. doi: 10.1093/cid/ciaa1535. PubMed PMID: 33035307; PubMed Central PMCID: PMC7665333.
