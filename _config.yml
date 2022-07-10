@@ -14,8 +14,10 @@ author: Mark Pritchard
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Research: "research"
+  Brief CV: "briefcv"
   Publications: "publications"
-  Pictures: "pictures"  
+  Photography: "photography"  
 # About Me: "aboutme"
 # Blog: "blog/index"
 #  Resources:
