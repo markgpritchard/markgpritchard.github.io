@@ -50,7 +50,7 @@ Pritchard MG, Murphy J, Cheng L, Janarthanan R, Judge A, Leal J. BMJ Open. 2020 
 **The impact of the enhanced recovery pathway and other factors on outcomes and costs following hip and knee replacement: routine data study**
 Judge A, Carr A, Price A, Garriga C, Cooper C, Prieto-Alhambra D, Old F, Peat G, Murphy J, Leal J, Barker K, Underdown L, Arden N, Gooberman-Hill R, Fitzpatrick R, Drew S, Pritchard MG. 2020 Jan;. doi: 10.3310/hsdr08040. Review. PubMed PMID: 32040280.
 
-### Earlier
+### Before 2020
 
 **Relationship of anxiety with joint pain and its management: A population survey**
 Barnett LA, Pritchard MG, Edwards JJ, Afolabi EK, Jordan KP, Healey EL, Finney AG, Chew-Graham CA, Mallen CD, Dziedzic KS. Musculoskeletal Care. 2018 Sep;16(3):353-362. doi: 10.1002/msc.1243. Epub 2018 Apr 20. PubMed PMID: 29675943.
