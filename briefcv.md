@@ -1,4 +1,4 @@
- ---
+---
 layout: page
 title: Brief CV
 subtitle: 
