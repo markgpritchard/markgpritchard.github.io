@@ -8,35 +8,35 @@ This is a list of my publications (last updated July 2022). You can also find my
 
 ## Peer-reviewed journal publications
 
+### 2022
+
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
 S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C.W. Turtle, P.J.M. Openshaw, J.K. Baillie, A. Docherty, M.G. Semple, M. Noursadeghi, E.M. Harrison; ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Investigators  
-_Thorax_ **77**: 606--615 (2022)  
-[Full text free online at doi: 10.1136/thoraxjnl-2021-217629](https://thorax.bmj.com/content/77/6/606.info)
+_Thorax_ **77**: 606--615 (2022) [Free full text](https://thorax.bmj.com/content/77/6/606.info)
+
+### 2021
 
 **Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort**  
 ISARIC Clinical Characterisation Group; M.D. Hall, J. Baruch, G. Carson, B.W. Citarella, A. Dagens, E.A. Dankwa, C.A. Donnelly, J. Dunning, M. Escher, C. Kartsonaki, L. Merson, **M. Pritchard**, J. Wei, P.W. Horby, A. Rojek, P.L. Olliaro  
-_Elife_ **10**: e70970 (2021)  
-[Full text free online at doi: 10.7554/eLife.70970](https://doi.org/10.7554/elife.70970)
+_Elife_ **10**: e70970 (2021) [Free full text](https://doi.org/10.7554/elife.70970)
 
 **COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study**
 ISARIC Clinical Characterisation Group [Corresponding author: **M.G. Pritchard**]  
-_Infection_ **49**: 889--905 (2021)  
-[Full text free online at doi: 10.1007/s15010-021-01599-5](https://doi.org/10.1007/s15010-021-01599-5)
+_Infection_ **49**: 889--905 (2021) [Free full text](https://doi.org/10.1007/s15010-021-01599-5)
 
 **Stop COVID Cohort: An Observational Study of 3480 Patients Admitted to the Sechenov University Hospital Network in Moscow City for Suspected Coronavirus Disease 2019 (COVID-19) Infection**  
 D. Munblit, N.A. Nekliudov, P. Bugaeva, O. Blyuss, M. Kislova, E. Listovskaya, A. Gamirova, A. Shikhaleva, V. Belyaev, P. Timashev, J.O. Warner, P. Comberiati, C. Apfelbacher, E. Bezrukov, M.E. Politov, A. Yavorovskiy, E. Bulanova, N. Tsareva, S. Avdeev, V.A. Kapustina, Y.I. Pigolkin, E.A. Dankwa, C. Kartsonaki, M.G. Pritchard, V. Fomin, A.A. Svistunov, D. Butnaru, P. Glybochko; Sechenov StopCOVID Research Team  
-_Clinical Infectious Diseases_ **73**: 1--11 (2021)  
-[Full text free online at doi: 10.1093/cid/ciaa1535](https://doi.org/10.1093/cid/ciaa1535)
+_Clinical Infectious Diseases_ **73**: 1--11 (2021) [Free full text](https://doi.org/10.1093/cid/ciaa1535)
 
 **Evaluating clinical characteristics studies produced early in the Covid-19 pandemic: A systematic review**  
 L. Manoharan, J.W.S. Cattrall, C. Harris, K. Newell, B. Thomson, M.G. Pritchard, P.G. Bannister, L. Sigfrid, T. Solomon, P.W. Horby, G. Carson, P. Olliaro  
-_PLoS One_ **16**: e0251250 (2021)  
-[Full text free online at doi: 10.1371/journal.pone.0251250](https://doi.org/10.1371/journal.pone.0251250)
+_PLoS One_ **16**: e0251250 (2021) [Free full text](https://doi.org/10.1371/journal.pone.0251250)
 
 **Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study**  
 R.K. Gupta, E.M. Harrison, A. Ho, A.B. Docherty, S.R. Knight, M. van Smeden, I. Abubakar, M. Lipman, M. Quartagno, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, M.G. Pritchard, C.D. Russell, J. Scott-Brown, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L. Turtle, P.J.M. Openshaw, J.K. Baillie, M.G. Semple, M. Noursadeghi; ISARIC 4C Investigators  
-_Lancet Respiratory Medicine_ **9**: 349--359 (2021)  
-[Full text free online at doi: 10.1016/S2213-2600(20)30559-2](https://doi.org/10.1016/S2213-2600(20)30559-2)
+_Lancet Respiratory Medicine_ **9**: 349--359 (2021) [Free full text](https://doi.org/10.1016/S2213-2600(20)30559-2)
+
+### 2020
 
 **Risk stratification of patients admitted to hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score**
 Knight SR, Ho A, Pius R, Buchan I, Carson G, Drake TM, Dunning J, Fairfield CJ, Gamble C, Green CA, Gupta R, Halpin S, Hardwick HE, Holden KA, Horby PW, Jackson C, Mclean KA, Merson L, Nguyen-Van-Tam JS, Norman L, Noursadeghi M, Olliaro PL, Pritchard MG, Russell CD, Shaw CA, Sheikh A, Solomon T, Sudlow C, Swann OV, Turtle LC, Openshaw PJ, Baillie JK, Semple MG, Docherty AB, Harrison EM. BMJ. 2020 Sep 9;370:m3339. doi: 10.1136/bmj.m3339. PubMed PMID: 32907855; PubMed Central PMCID: PMC7116472.
@@ -49,6 +49,8 @@ Pritchard MG, Murphy J, Cheng L, Janarthanan R, Judge A, Leal J. BMJ Open. 2020 
 
 **The impact of the enhanced recovery pathway and other factors on outcomes and costs following hip and knee replacement: routine data study**
 Judge A, Carr A, Price A, Garriga C, Cooper C, Prieto-Alhambra D, Old F, Peat G, Murphy J, Leal J, Barker K, Underdown L, Arden N, Gooberman-Hill R, Fitzpatrick R, Drew S, Pritchard MG. 2020 Jan;. doi: 10.3310/hsdr08040. Review. PubMed PMID: 32040280.
+
+### Earlier
 
 **Relationship of anxiety with joint pain and its management: A population survey**
 Barnett LA, Pritchard MG, Edwards JJ, Afolabi EK, Jordan KP, Healey EL, Finney AG, Chew-Graham CA, Mallen CD, Dziedzic KS. Musculoskeletal Care. 2018 Sep;16(3):353-362. doi: 10.1002/msc.1243. Epub 2018 Apr 20. PubMed PMID: 29675943.
