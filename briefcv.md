@@ -13,7 +13,7 @@ subtitle:
 ## Previous roles 
 
 * Hospital doctor posts in infectious diseases, intensive care medicine, acute internal medicine, and neonatology, 2015--17
-* Expedition Medic, Blue Ventures, Andavadoaka, Madagascar, 2016
+* Expedition Medic, *Blue Ventures*, Andavadoaka, Madagascar, 2016
 * Academic Foundation Programme Doctor, *Royal Stoke University Hospital*, 2013--15 
 * Oncology Trials Co-ordinator, *University of Birmingham*, 2006--09 
 * Audit Assistant, *West Midlands NHS Breast Cancer Screening Programme*, 2004--06
