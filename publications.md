@@ -74,4 +74,4 @@ _Archives of Disease in Childhood_ **100**: 112 (2015) [Publisher's website](htt
 
 **Management of patients taking antiplatelet or anticoagulant medication requiring invasive breast procedures: United Kingdom survey of radiologists' and surgeons' current practice**  
 **M.G. Pritchard**, J.N. Townend, W.A. Lester, D.W. England, O. Kearins, S.A. Bradley  
-_Clinical Radiology_ **63**: 305--311 (2018) [--> Abstract](https://doi.org/10.1016/j.crad.2007.09.006)
+_Clinical Radiology_ **63**: 305--311 (2018) [--- Abstract](https://doi.org/10.1016/j.crad.2007.09.006)
