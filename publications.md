@@ -24,7 +24,7 @@ _Elife_ **10**: e70970 (2021) [&rarr; Free full text](https://doi.org/10.7554/el
 ISARIC Clinical Characterisation Group [Corresponding author: **M.G. Pritchard**]  
 _Infection_ **49**: 889--905 (2021) [&rarr; Free full text](https://doi.org/10.1007/s15010-021-01599-5)
 
-**Stop COVID Cohort: An Observational Study of 3480 Patients Admitted to the Sechenov University Hospital Network in Moscow City for Suspected Coronavirus Disease 2019 (COVID-19) Infection**  
+**Stop COVID Cohort: An observational study of 3480 patients admitted to the Sechenov University Hospital Network in Moscow City for suspected Coronavirus Disease 2019 (COVID-19) infection**  
 D. Munblit, N.A. Nekliudov, P. Bugaeva, O. Blyuss, M. Kislova, E. Listovskaya, A. Gamirova, A. Shikhaleva, V. Belyaev, P. Timashev, J.O. Warner, P. Comberiati, C. Apfelbacher, E. Bezrukov, M.E. Politov, A. Yavorovskiy, E. Bulanova, N. Tsareva, S. Avdeev, V.A. Kapustina, Y.I. Pigolkin, E.A. Dankwa, C. Kartsonaki, **M.G. Pritchard**, V. Fomin, A.A. Svistunov, D. Butnaru, P. Glybochko; Sechenov StopCOVID Research Team  
 _Clinical Infectious Diseases_ **73**: 1--11 (2021) [&rarr; Free full text](https://doi.org/10.1093/cid/ciaa1535)
 
