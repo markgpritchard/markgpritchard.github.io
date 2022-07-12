@@ -6,8 +6,7 @@ subtitle:
 
 ## Current positions
 
-* Specialty Registrar in Public Health Medicine, _Oxford School of Public Health_, since 2017  
-  (out of programme for research with ongoing health protection work since 2021)
+* Specialty Registrar in Public Health Medicine, _Oxford School of Public Health_, since 2017 (out of programme for research with ongoing health protection work, since 2021)
 * DPhil Student in Clinical Medicine, _University of Oxford_, since 2021 
 
 ## Previous roles 
