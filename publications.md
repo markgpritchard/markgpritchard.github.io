@@ -10,6 +10,10 @@ This is a list of my publications (last updated July 2022). You can also find my
 
 ### 2022
 
+**Symptom-based case definitions for COVID-19: time and geographical variations for detection at hospital admission among 260,000 patients**  
+ISARIC Clinical Characterisation Group; J. Baruch, A. Rojek, C. Kartsonaki,B. Vijayaraghavan, B. Gonçalves, **M. Pritchard**, L. Merson, J. Dunning, L. Sigfrid, B. Citarella, S. Murthy, T. Yeabah, P. Olliaro  
+_Influenza and Other Respiratory Viruses_ (Accepted 2022) [&rarr; Pre-print](https://doi.org/10.22541/au.165658324.49748325/v1)
+
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
 S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C.W. Turtle, P.J.M. Openshaw, J.K. Baillie, A. Docherty, M.G. Semple, M. Noursadeghi, E.M. Harrison; ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Investigators  
 _Thorax_ **77**: 606--615 (2022) [&rarr; Free full text](https://thorax.bmj.com/content/77/6/606)
