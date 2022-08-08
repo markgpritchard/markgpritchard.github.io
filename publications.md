@@ -11,7 +11,7 @@ This is a list of my publications (last updated July 2022). You can also find my
 ### 2022
 
 **Symptom-based case definitions for COVID-19: time and geographical variations for detection at hospital admission among 260,000 patients**  
-ISARIC Clinical Characterisation Group; J. Baruch, A. Rojek, C. Kartsonaki,B. Vijayaraghavan, B. Gonçalves, **M. Pritchard**, L. Merson, J. Dunning, L. Sigfrid, B. Citarella, S. Murthy, T. Yeabah, P. Olliaro  
+ISARIC Clinical Characterisation Group; J. Baruch, A. Rojek, C. Kartsonaki, B. Vijayaraghavan, B. Gonçalves, **M. Pritchard**, L. Merson, J. Dunning, L. Sigfrid, B. Citarella, S. Murthy, T. Yeabah, P. Olliaro  
 _Influenza and Other Respiratory Viruses_ (Accepted 2022) [&rarr; Pre-print](https://doi.org/10.22541/au.165658324.49748325/v1)
 
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
