@@ -4,7 +4,7 @@ title: Photography
 subtitle: 
 ---
 
-I enjoy wildlife photography when I get the chance. Here I share a few photographs that I am particularly pleased with.
+I enjoy wildlife photography when I get the chance. Here I share a few photographs I am pleased with.
 
 <img style="float: center; padding: 30px 0px 0px 0px;" width="600" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/Polarbear.jpg?raw=true" alt="Photograph of a polar bear looking at its reflection"/>
 
