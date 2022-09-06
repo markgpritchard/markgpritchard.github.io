@@ -22,4 +22,4 @@ subtitle:
 * Membership [MFPH], _Faculty of Public Health_, 2019
 * MSc Global Health Science, _University of Oxford_, 2018
 * MB ChB Medicine & Surgery, _University of Birmingham_, 2013
-* BA (Hons) Natural Sciences / Zoology, _Robinson College, University of Cambridge_, 2004
+* BA (Hons) Natural Sciences / Zoology, _University of Cambridge_, 2004
