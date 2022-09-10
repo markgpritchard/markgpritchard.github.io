@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Photography
+title: Creativity
 subtitle: 
 ---
+
+# Photography
 
 I enjoy wildlife photography when I get the chance. Here I share a few photographs I am pleased with.
 
@@ -13,3 +15,9 @@ I took this picture from the _Akademik Sergey Vavilov_ near Sjuøyane. It was cl
 <img style="padding: 30px 0px 0px 0px;" width="600" class="center" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/flamingo.jpg?raw=true" alt="Photograph of a flamingo flying"/>
 
 I took this picture at Ornithological Park of Pont de Gau. It is a remarkable place for water birds with the greater flamingo an especially colourful attraction. I captured this picture shortly after it took off, using an exposure of 1/30&nbsp;s to achieve the blurred background.
+
+# Painting
+
+I bought myself paints during the covid-19 social distancing measures of 2020. The main purpose was to have something to do that wasn't work, and they were not intended for public view. However, I was pleased with this painting of Broken Arch in Arches National Park, Utah, so am sharing it here.
+
+<img style="padding: 30px 0px 0px 0px;" width="600" class="center" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/brokenarch.jpg?raw=true" alt="Acrylic painting of Broken Arch, Utah"/>
