@@ -47,11 +47,11 @@ _Lancet Respiratory Medicine_ **9**: 349--359 (2021) [&rarr; Free full text](htt
 ### 2020
 
 **Risk stratification of patients admitted to hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score**  
-S.R. Knight, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, R. Gupta, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, M. Noursadeghi, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C. Turtle, P.J. Openshaw, J.K. Baillie, M.G. Semple, A.B. Docherty, E.M. Harrison; ISARIC4C investigators  
+S.R. Knight, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, R. Gupta, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, M. Noursadeghi, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C. Turtle, P.J. Openshaw, J.K. Baillie, M.G. Semple, A.B. Docherty, E.M. Harrison; ISARIC4C Investigators  
 _BMJ_ **370**: m3339 (2020) [&rarr; Free full text](https://doi.org/10.1136/bmj.m3339)
 
 **Clinical characteristics of children and young people admitted to hospital with covid-19 in United Kingdom: prospective multicentre observational cohort study**  
-O.V. Swann, K.A. Holden, L. Turtle, L. Pollock, C.J. Fairfield, T.M. Drake, S. Seth, C. Egan, H.E. Hardwick, S. Halpin, M. Girvan, C. Donohue, **M. Pritchard**, L.B. Patel, S. Ladhani, L. Sigfrid, I.P. Sinha, P.L. Olliaro, J.S. Nguyen-Van-Tam, P.W. Horby, L. Merson, G. Carson, J. Dunning, P.J.M. Openshaw, J.K. Baillie, E.M. Harrison, A.B. Docherty, M.G. Semple; ISARIC4C investigators  
+O.V. Swann, K.A. Holden, L. Turtle, L. Pollock, C.J. Fairfield, T.M. Drake, S. Seth, C. Egan, H.E. Hardwick, S. Halpin, M. Girvan, C. Donohue, **M. Pritchard**, L.B. Patel, S. Ladhani, L. Sigfrid, I.P. Sinha, P.L. Olliaro, J.S. Nguyen-Van-Tam, P.W. Horby, L. Merson, G. Carson, J. Dunning, P.J.M. Openshaw, J.K. Baillie, E.M. Harrison, A.B. Docherty, M.G. Semple; ISARIC4C Investigators  
 _BMJ_ **370**: m3249 (2020) [&rarr; Free full text](https://doi.org/10.1136/bmj.m3249)
 
 **Enhanced recovery following hip and knee arthroplasty: a systematic review of cost-effectiveness evidence**  
