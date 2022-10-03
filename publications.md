@@ -86,7 +86,7 @@ _Clinical Radiology_ **63**: 305--311 (2008) [&rarr; Abstract](https://doi.org/1
 
 ## Erdős number
 
-For people who are interested in such things, my [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is at most 4, with a pathway Paul Erdős (0) &rarr; Samuel J. Taylor (1) &rarr; David R. Cox (2) &rarr; Christl A. Donnelly (3) &rarr; _me_ (4):
+For people who are interested in such things, my [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is at most 4, via the pathway Paul Erdős (0) &rarr; Samuel J. Taylor (1) &rarr; David R. Cox (2) &rarr; Christl A. Donnelly (3) &rarr; _me_ (4):
 
 * **P. Erdős**, **S.J. Taylor**. Some problems concerning the structure of random walk paths. _Acta Mathematica Academiae Scientiarum Hungaricae_ **11**: 137--162 (1960)
 * J.F.C. Kingman, **S.J. Taylor**, A.G. Hawkes, A.M. Walker, **D.R. Cox**, A.F.M. Smith, B.M. Hill, P.J. Burville, T. Leonard. Random discrete distribution. _Journal of the Royal Statistical Society Series B_ **37**: 1--22 (1975)
