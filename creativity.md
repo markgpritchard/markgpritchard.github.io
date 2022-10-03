@@ -16,7 +16,7 @@ I took this picture at Ornithological Park of Pont de Gau. It is a remarkable pl
 
 <img style="padding: 0px 0px 30px 0px;" width="600" class="center" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/flamingo.jpg?raw=true" alt="Photograph of a flamingo flying"/>
 
-Remains of the Pont du Gard Roman aqueduct in southern France.
+This picture of the remains of the Pont du Gard Roman aqueduct in southern France is perhaps not very original but I had fun with it.
 
 <img style="padding: 0px 0px 30px 0px;" width="600" class="center" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/pontdugard.jpg?raw=true" alt="Pont du Gard Roman aqueduct"/>
 
