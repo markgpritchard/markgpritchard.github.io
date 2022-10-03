@@ -83,3 +83,15 @@ _Archives of Disease in Childhood_ **100**: 112 (2015) [&rarr; Publisher's websi
 **Management of patients taking antiplatelet or anticoagulant medication requiring invasive breast procedures: United Kingdom survey of radiologists' and surgeons' current practice**  
 **M.G. Pritchard**, J.N. Townend, W.A. Lester, D.W. England, O. Kearins, S.A. Bradley  
 _Clinical Radiology_ **63**: 305--311 (2008) [&rarr; Abstract](https://doi.org/10.1016/j.crad.2007.09.006)
+
+## Erdős number
+
+For people who are interested in such things, my [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is at most 4, with a pathway Paul Erdős (0) &rarr; Samuel J. Taylor (1) &rarr; David R. Cox (2) &rarr; Christl A. Donnelly (3) &rarr; _me_ (4):
+
+* **P. Erdős**, **S.J. Taylor**, Some problems concerning the structure of random walk paths. _Acta Mathematica Academiae Scientiarum Hungaricae_ **11**: 137--162 (1960)
+
+* J.F.C. Kingman, **S.J. Taylor**, A.G. Hawkes, A.M. Walker, **D.R. Cox**, A.F.M. Smith, B.M. Hill, P.J. Burville, T. Leonard, T. Random discrete distribution. _Journal of the Royal Statistical Society Series B_ **37**: 1--22 (1975)
+
+* A.C. Ghani, **C.A. Donnelly**, **D.R. Cox**, J.R. Griffin, C. Fraser, T.H. Lam, L.M. Ho, W.S. Chan, R.M. Anderson, A.J. Hedley, G.M. Leung, Methods for estimating the case fatality ratio for a novel, emerging infectious disease. _American Journal of Epidemiology_, **162**: 479-486 (2005)
+
+ISARIC Clinical Characterisation Group; M.D. Hall, J. Baruch, G. Carson, B.W. Citarella, A. Dagens, E.A. Dankwa, **C.A. Donnelly**, J. Dunning, M. Escher, C. Kartsonaki, L. Merson, **M. Pritchard**, J. Wei, P.W. Horby, A. Rojek, P.L. Olliaro, Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort. _Elife_ **10**: e70970 (2021) 
