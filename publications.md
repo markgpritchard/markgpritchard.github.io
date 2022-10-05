@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 
-This is a list of my publications (updated September 2022). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
+This is a list of my publications (updated October 2022). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
 
 ## Peer-reviewed journal publications
 
@@ -16,11 +16,11 @@ _Elife_ (accepted 2022) [&rarr; Pre-print](https://doi.org/10.1101/2022.06.22.22
 
 **Symptom-based case definitions for COVID-19: Time and geographical variations for detection at hospital admissionamong 260,000 patients**  
 J. Baruch, A. Rojek, C. Kartsonaki, B.K.T. Vijayaraghavan, B.P. Gonçalves, **M.G. Pritchard**, L. Merson, J. Dunning, M. Hall, L. Sigfrid, B.W. Citarella, S. Murthy, T.O. Yeabah, P. Olliaro; ISARIC Clinical Characterisation Group  
-_Influenza and Other Respiratory Viruses_ (Published online 2022) [&rarr; Free full text](https://doi.org/10.1111/irv.13039)
+_Influenza and Other Respiratory Viruses_ **16**: 1040--50 (2022) [&rarr; Free full text](https://doi.org/10.1111/irv.13039)
 
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
 S.R. Knight, R.K. Gupta, A. Ho, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L.C.W. Turtle, P.J.M. Openshaw, J.K. Baillie, A. Docherty, M.G. Semple, M. Noursadeghi, E.M. Harrison; ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC4C) Investigators  
-_Thorax_ **77**: 606--615 (2022) [&rarr; Free full text](https://thorax.bmj.com/content/77/6/606)
+_Thorax_ **77**: 606--15 (2022) [&rarr; Free full text](https://thorax.bmj.com/content/77/6/606)
 
 ### 2021
 
@@ -42,7 +42,7 @@ _PLoS One_ **16**: e0251250 (2021) [&rarr; Free full text](https://doi.org/10.13
 
 **Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study**  
 R.K. Gupta, E.M. Harrison, A. Ho, A.B. Docherty, S.R. Knight, M. van Smeden, I. Abubakar, M. Lipman, M. Quartagno, R. Pius, I. Buchan, G. Carson, T.M. Drake, J. Dunning, C.J. Fairfield, C. Gamble, C.A. Green, S. Halpin, H.E. Hardwick, K.A. Holden, P.W. Horby, C. Jackson, K.A. Mclean, L. Merson, J.S. Nguyen-Van-Tam, L. Norman, P.L. Olliaro, **M.G. Pritchard**, C.D. Russell, J. Scott-Brown, C.A. Shaw, A. Sheikh, T. Solomon, C. Sudlow, O.V. Swann, L. Turtle, P.J.M. Openshaw, J.K. Baillie, M.G. Semple, M. Noursadeghi; ISARIC4C Investigators  
-_Lancet Respiratory Medicine_ **9**: 349--359 (2021) [&rarr; Free full text](https://doi.org/10.1016/S2213-2600(20)30559-2)
+_Lancet Respiratory Medicine_ **9**: 349--59 (2021) [&rarr; Free full text](https://doi.org/10.1016/S2213-2600(20)30559-2)
 
 ### 2020
 
@@ -66,7 +66,7 @@ _Health Services and Delivery Research_ **8**(4): 1--187 (2020) [&rarr; Free ful
 
 **Relationship of anxiety with joint pain and its management: A population survey**  
 L.A. Barnett, **M.G. Pritchard**, J.J. Edwards, E.K. Afolabi, K.P. Jordan, E.L. Healey, A.G. Finney, C.A. Chew-Graham, C.D. Mallen, K.S. Dziedzic  
-_Musculoskeletal Care_ **16**: 353--362 (2018) [&rarr; Abstract](https://doi.org/10.1002/msc.1243)
+_Musculoskeletal Care_ **16**: 353--62 (2018) [&rarr; Abstract](https://doi.org/10.1002/msc.1243)
 
 **Cost-effectiveness of enhanced recovery in hip and knee replacement: a systematic review protocol**  
 J. Murphy, **M.G. Pritchard**, L.Y. Cheng, R. Janarthanan, J. Leal  
@@ -82,7 +82,7 @@ _Archives of Disease in Childhood_ **100**: 112 (2015) [&rarr; Publisher's websi
 
 **Management of patients taking antiplatelet or anticoagulant medication requiring invasive breast procedures: United Kingdom survey of radiologists' and surgeons' current practice**  
 **M.G. Pritchard**, J.N. Townend, W.A. Lester, D.W. England, O. Kearins, S.A. Bradley  
-_Clinical Radiology_ **63**: 305--311 (2008) [&rarr; Abstract](https://doi.org/10.1016/j.crad.2007.09.006)
+_Clinical Radiology_ **63**: 305--11 (2008) [&rarr; Abstract](https://doi.org/10.1016/j.crad.2007.09.006)
 
 ## Erdős number
 
