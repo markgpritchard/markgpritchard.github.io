@@ -10,9 +10,9 @@ This is a list of my publications (updated October 2022). You can also find my p
 
 ### 2022
 
-**An international study of the impact of the Omicron variant emergence on the clinical epidemiology of COVID-19 in hospitalised patients**  
-B.P. Gonçalves, M. Hall, W. Jassat, V. Balan, S. Murthy, C. Kartsonaki, M.G. Semple, A. Rojek, J. Baruch, L.F. Reyes, A. Dasgupta, J. Dunning, B.W. Citarella, **M. Pritchard**, A. Martín-Quiros, B.K.T. Vijayaraghavan, V. Korten, J.K. Baillie, D. Aryal, Y. Arabi, A. Angheben, J. Caoili, F.M. Carrier, E.M. Harrison, J. Gomez Junyet, C. Figueiredo-Mello, J.J. Douglas, Y.P. Chow, X.C. Wong, S. Bertagnolio, S.S. Thwin, A. Streinu-Cercel, L. Salazar, A. Rishu, R. Rangappa, D. Ong, M. Hashmi, G. Carson, J. Diaz, R. Fowler, M. Kraemer, E.-J. Wils, P. Horby, L. Merson, P.L. Olliaro; ISARIC Clinical Characterisation Group  
-_Elife_ (accepted 2022) [&rarr; Pre-print](https://doi.org/10.1101/2022.06.22.22276764)
+**An international observational study to assess the impact of the Omicron variant emergence on the clinical epidemiology of COVID-19 in hospitalised patients**  
+B.P. Gonçalves, M. Hall, W. Jassat, V. Balan, S. Murthy, C. Kartsonaki, M.G. Semple, A. Rojek, J. Baruch, L.F. Reyes, A. Dasgupta, J. Dunning, B.W. Citarella, **M. Pritchard**, A. Martín-Quiros, U. Sili, J.K. Baillie, D. Aryal, Y. Arabi, A. Rashan, A. Angheben, J. Caoili, F.M. Carrier, E.M. Harrison, J. Gómez-Junyent, C. Figueiredo-Mello, J.J. Douglas, M.B.M. Nor, Y.P. Chow, X.C. Wong, S. Bertagnolio, S.S. Thwin, A. Streinu-Cercel, L. Salazar, A. Rishu, R. Rangappa, D.S.Y. Ong, M. Hashmi, G. Carson, J. Diaz, R. Fowler, M.U.G. Kraemer, E.-J. Wils, P. Horby, L. Merson, P.L. Olliaro; ISARIC Clinical Characterisation Group  
+_Elife_ 11: e80556 (2022) [&rarr; Free full text](https://doi.org/10.7554/eLife.80556)
 
 **Symptom-based case definitions for COVID-19: Time and geographical variations for detection at hospital admissionamong 260,000 patients**  
 J. Baruch, A. Rojek, C. Kartsonaki, B.K.T. Vijayaraghavan, B.P. Gonçalves, **M.G. Pritchard**, L. Merson, J. Dunning, M. Hall, L. Sigfrid, B.W. Citarella, S. Murthy, T.O. Yeabah, P. Olliaro; ISARIC Clinical Characterisation Group  
