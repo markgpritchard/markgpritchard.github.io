@@ -6,7 +6,7 @@ subtitle:
 
 ## Optimal timing of covid-19 booster vaccinations for healthcare workers (work in progress)
 
-<img style="float: left; padding: 0px 30px 20px 0px;" width="390" height="169" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/newflow.jpg?raw=true" alt="Simple compartmental model of waning immunity that is boosted by exposure to the pathogen"/>
+<img style="float: left; padding: 0px 30px 20px 0px;" width="390" height="169" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/flow.png?raw=true" alt="Simple compartmental model of waning immunity that is boosted by exposure to the pathogen"/>
 
 <img style="float: left; padding: 0px 30px 20px 0px;" width="390" height="296" src="https://github.com/markgpritchard/markgpritchard.github.io/blob/master/assets/img/surface.png?raw=true" alt="Graph showing a mathematical model of the relationship of the force of infection and immunity boosting on the duration of immunity. When immune boosting is present, a greater force of infection can lead to greater immunity"/>
 
