@@ -67,7 +67,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
-#  mastodon: instance.url/@username
+  mastodon: toot.community/@markgpritchard
   ORCID: 0000-0003-1726-8989
   google-scholar: citations?user=mQRgzdIAAAAJ&hl=en
 #  discord: invite/invite_code or users/userid 
