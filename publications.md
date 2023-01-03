@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 
-This is a list of my publications (updated October 2022). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
+This is a list of my publications (updated January 2023). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
 
 ## Peer-reviewed journal publications
 
@@ -20,7 +20,7 @@ _Influenza and Other Respiratory Viruses_ **16**: 1040--50 (2022) [&rarr; Free f
 
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
 S.R.&nbsp;Knight, R.K.&nbsp;Gupta, A.&nbsp;Ho, R.&nbsp;Pius, I.&nbsp;Buchan, G.&nbsp;Carson, _et al._  
-_Thorax_ **77**: 606--15 (2022) [&rarr; Free full text](https://thorax.bmj.com/content/77/6/606)
+_Thorax_ **77**: 606--15 (2022) [&rarr; Free full text](http://doi.org/10.1136/thoraxjnl-2021-217629)
 
 ### 2021
 
