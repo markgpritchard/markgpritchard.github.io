@@ -14,7 +14,7 @@ This is a list of my publications (updated January 2023). You can also find my p
 B.P.&nbsp;Gonçalves, M.&nbsp;Hall, W.&nbsp;Jassat, V.&nbsp;Balan, S.&nbsp;Murthy, C.&nbsp;Kartsonaki, _et al._  
 _Elife_ **11**: e80556 (2022) [&rarr; Free full text](https://doi.org/10.7554/eLife.80556)
 
-**Symptom-based case definitions for COVID-19: Time and geographical variations for detection at hospital admissionamong 260,000 patients**  
+**Symptom-based case definitions for COVID-19: Time and geographical variations for detection at hospital admission among 260,000 patients**  
 J.&nbsp;Baruch, A.&nbsp;Rojek, C.&nbsp;Kartsonaki, B.K.T.&nbsp;Vijayaraghavan, B.P.&nbsp;Gonçalves, **M.G.&nbsp;Pritchard**, L.&nbsp;Merson, J.&nbsp;Dunning, M.&nbsp;Hall, L.&nbsp;Sigfrid, B.W.&nbsp;Citarella, S.&nbsp;Murthy, T.O.&nbsp;Yeabah, P.&nbsp;Olliaro; ISARIC Clinical Characterisation Group  
 _Influenza and Other Respiratory Viruses_ **16**: 1040--50 (2022) [&rarr; Free full text](https://doi.org/10.1111/irv.13039)
 
