@@ -18,7 +18,7 @@ I joined [ISARIC](https://isaric.org/) in February 2020 when covid-19 started to
 
 ### Symptoms by age and sex
 
-By 2021, Typical symptoms of fever, cough, shortness of breath, and altered sense of taste and smell were well known. We were interested in whether these were equally applicable for patients of all ages. We used data from 60 thousand people admitted to hospital with covid-19.  We found that children could frequently present with symptoms such as nausea and vomiting and abdominal pain, and that older adults might present with confusion.  
+By 2021, typical symptoms of fever, cough, shortness of breath, and altered sense of taste and smell were well known. We were interested in whether these were equally applicable for patients of all ages. We used data from 60 thousand people admitted to hospital with covid-19.  We found that children could frequently present with symptoms such as nausea and vomiting and abdominal pain, and that older adults might present with confusion.  
 [&rarr; Publication free full text](https://doi.org/10.1007/s15010-021-01599-5)
 
 ### Clinical data report
