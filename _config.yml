@@ -6,16 +6,16 @@
 # --- Required options --- #
 
 # Name of website
-title: Mark Pritchard
+title: Mark G. Pritchard
 
 # Your name to show in the footer
-author: Mark Pritchard
+author: Mark G. Pritchard
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Research: "research"
-  Brief CV: "briefcv"
+#  Brief CV: "briefcv"
   Publications: "publications"
   Creativity: "creativity"  
 # About Me: "aboutme"

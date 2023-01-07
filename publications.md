@@ -4,9 +4,20 @@ title: Publications
 subtitle: 
 ---
 
-This is a list of my publications (updated January 2023). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
+## Key publications 
 
-## Peer-reviewed journal publications
+### COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study
+
+ISARIC Clinical Characterisation Group [Corresponding author: **M.G.&nbsp;Pritchard**]  
+_Infection_ **49**: 889--905 (2021)
+
+For this paper we used data from 60 thousand people admitted to hospital with covid-19. Typical symptoms of fever, cough, shortness of breath, and altered sense of taste and smell were well known. We were interested in whether these were equally applicable for patients of all ages. We found that children could frequently present with symptoms such as nausea and vomiting and abdominal pain, and that older adults might present with confusion.
+
+[&rarr; Free full text](https://doi.org/10.1007/s15010-021-01599-5)
+
+## All peer-reviewed journal publications
+
+This is a list of my publications (updated January 2023). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
 
 ### 2022
 
@@ -86,9 +97,16 @@ _Clinical Radiology_ **63**: 305--11 (2008) [&rarr; Abstract](https://doi.org/10
 
 ## Erdős number
 
-For people who are interested in such things, my [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is at most 4, via the pathway Paul Erdős (0) &rarr; Samuel J.&nbsp;Taylor (1) &rarr; David R.&nbsp;Cox (2) &rarr; Christl A.&nbsp;Donnelly (3) &rarr; _me_ (4):
+My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is at most 4:
 
-* **P.&nbsp;Erdős**, **S.J.&nbsp;Taylor**.&nbsp;Some problems concerning the structure of random walk paths.&nbsp;_Acta Mathematica Academiae Scientiarum Hungaricae_ **11**: 137--62 (1960)
-* J.F.C.&nbsp;Kingman, **S.J.&nbsp;Taylor**, A.G.&nbsp;Hawkes, A.M.&nbsp;Walker, **D.R.&nbsp;Cox**, A.F.M.&nbsp;Smith, B.M.&nbsp;Hill, P.J.&nbsp;Burville, T.&nbsp;Leonard.&nbsp;Random discrete distribution.&nbsp;_Journal of the Royal Statistical Society Series B_ **37**: 1--22 (1975)
-* A.C.&nbsp;Ghani, **C.A.&nbsp;Donnelly**, **D.R.&nbsp;Cox**, J.R.&nbsp;Griffin, C.&nbsp;Fraser, T.H.&nbsp;Lam, L.M.&nbsp;Ho, W.S.&nbsp;Chan, R.M.&nbsp;Anderson, A.J.&nbsp;Hedley, G.M.&nbsp;Leung.&nbsp;Methods for estimating the case fatality ratio for a novel, emerging infectious disease.&nbsp;_American Journal of Epidemiology_, **162**: 479--86 (2005)
-* ISARIC Clinical Characterisation Group; M.D.&nbsp;Hall, J.&nbsp;Baruch, G.&nbsp;Carson, B.W.&nbsp;Citarella, A.&nbsp;Dagens, E.A.&nbsp;Dankwa, **C.A.&nbsp;Donnelly**, J.&nbsp;Dunning, M.&nbsp;Escher, C.&nbsp;Kartsonaki, L.&nbsp;Merson, **M.&nbsp;Pritchard**, J.&nbsp;Wei, P.W.&nbsp;Horby, A.&nbsp;Rojek, P.L.&nbsp;Olliaro.&nbsp;Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort.&nbsp;_Elife_ **10**: e70970 (2021) 
+Authors of this paper have an Erdős number of at most 1:  
+**P.&nbsp;Erdős**, **S.J.&nbsp;Taylor**.&nbsp;Some problems concerning the structure of random walk paths.&nbsp;_Acta Mathematica Academiae Scientiarum Hungaricae_ **11**: 137--62 (1960)
+
+Authors of this paper have an Erdős number of at most 2:  
+J.F.C.&nbsp;Kingman, **S.J.&nbsp;Taylor**, A.G.&nbsp;Hawkes, A.M.&nbsp;Walker, **D.R.&nbsp;Cox**, A.F.M.&nbsp;Smith, B.M.&nbsp;Hill, P.J.&nbsp;Burville, T.&nbsp;Leonard.&nbsp;Random discrete distribution.&nbsp;_Journal of the Royal Statistical Society Series B_ **37**: 1--22 (1975)
+
+Authors of this paper have an Erdős number of at most 3:  
+A.C.&nbsp;Ghani, **C.A.&nbsp;Donnelly**, **D.R.&nbsp;Cox**, J.R.&nbsp;Griffin, C.&nbsp;Fraser, T.H.&nbsp;Lam, L.M.&nbsp;Ho, W.S.&nbsp;Chan, R.M.&nbsp;Anderson, A.J.&nbsp;Hedley, G.M.&nbsp;Leung.&nbsp;Methods for estimating the case fatality ratio for a novel, emerging infectious disease.&nbsp;_American Journal of Epidemiology_, **162**: 479--86 (2005)
+
+Authors of this paper have an Erdős number of at most 4:  
+ISARIC Clinical Characterisation Group; M.D.&nbsp;Hall, J.&nbsp;Baruch, G.&nbsp;Carson, B.W.&nbsp;Citarella, A.&nbsp;Dagens, E.A.&nbsp;Dankwa, **C.A.&nbsp;Donnelly**, J.&nbsp;Dunning, M.&nbsp;Escher, C.&nbsp;Kartsonaki, L.&nbsp;Merson, **M.&nbsp;Pritchard**, J.&nbsp;Wei, P.W.&nbsp;Horby, A.&nbsp;Rojek, P.L.&nbsp;Olliaro.&nbsp;Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort.&nbsp;_Elife_ **10**: e70970 (2021) 
