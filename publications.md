@@ -89,13 +89,13 @@ _Clinical Radiology_ **63**: 305--11 (2008) [&rarr; Abstract](https://doi.org/10
 My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is at most 4:
 
 _Authors of this paper have an Erdős number of at most 1:_  
-: **P.&nbsp;Erdős**, **S.J.&nbsp;Taylor**.&nbsp;Some problems concerning the structure of random walk paths.&nbsp;_Acta Mathematica Academiae Scientiarum Hungaricae_ **11**: 137--62 (1960)
+**P.&nbsp;Erdős**, **S.J.&nbsp;Taylor**.&nbsp;Some problems concerning the structure of random walk paths.&nbsp;_Acta Mathematica Academiae Scientiarum Hungaricae_ **11**: 137--62 (1960)
 
-Authors of this paper have an Erdős number of at most 2:  
-	J.F.C.&nbsp;Kingman, **S.J.&nbsp;Taylor**, A.G.&nbsp;Hawkes, A.M.&nbsp;Walker, **D.R.&nbsp;Cox**, A.F.M.&nbsp;Smith, B.M.&nbsp;Hill, P.J.&nbsp;Burville, T.&nbsp;Leonard.&nbsp;Random discrete distribution.&nbsp;_Journal of the Royal Statistical Society Series B_ **37**: 1--22 (1975)
+_Authors of this paper have an Erdős number of at most 2:_  
+J.F.C.&nbsp;Kingman, **S.J.&nbsp;Taylor**, A.G.&nbsp;Hawkes, A.M.&nbsp;Walker, **D.R.&nbsp;Cox**, A.F.M.&nbsp;Smith, B.M.&nbsp;Hill, P.J.&nbsp;Burville, T.&nbsp;Leonard.&nbsp;Random discrete distribution.&nbsp;_Journal of the Royal Statistical Society Series B_ **37**: 1--22 (1975)
 
-Authors of this paper have an Erdős number of at most 3:  
-	A.C.&nbsp;Ghani, **C.A.&nbsp;Donnelly**, **D.R.&nbsp;Cox**, J.R.&nbsp;Griffin, C.&nbsp;Fraser, T.H.&nbsp;Lam, L.M.&nbsp;Ho, W.S.&nbsp;Chan, R.M.&nbsp;Anderson, A.J.&nbsp;Hedley, G.M.&nbsp;Leung.&nbsp;Methods for estimating the case fatality ratio for a novel, emerging infectious disease.&nbsp;_American Journal of Epidemiology_, **162**: 479--86 (2005)
+_Authors of this paper have an Erdős number of at most 3:_  
+A.C.&nbsp;Ghani, **C.A.&nbsp;Donnelly**, **D.R.&nbsp;Cox**, J.R.&nbsp;Griffin, C.&nbsp;Fraser, T.H.&nbsp;Lam, L.M.&nbsp;Ho, W.S.&nbsp;Chan, R.M.&nbsp;Anderson, A.J.&nbsp;Hedley, G.M.&nbsp;Leung.&nbsp;Methods for estimating the case fatality ratio for a novel, emerging infectious disease.&nbsp;_American Journal of Epidemiology_, **162**: 479--86 (2005)
 
-Authors of this paper have an Erdős number of at most 4:  
-	ISARIC Clinical Characterisation Group; M.D.&nbsp;Hall, J.&nbsp;Baruch, G.&nbsp;Carson, B.W.&nbsp;Citarella, A.&nbsp;Dagens, E.A.&nbsp;Dankwa, **C.A.&nbsp;Donnelly**, J.&nbsp;Dunning, M.&nbsp;Escher, C.&nbsp;Kartsonaki, L.&nbsp;Merson, **M.&nbsp;Pritchard**, J.&nbsp;Wei, P.W.&nbsp;Horby, A.&nbsp;Rojek, P.L.&nbsp;Olliaro.&nbsp;Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort.&nbsp;_Elife_ **10**: e70970 (2021) 
+_Authors of this paper have an Erdős number of at most 4:_  
+ISARIC Clinical Characterisation Group; M.D.&nbsp;Hall, J.&nbsp;Baruch, G.&nbsp;Carson, B.W.&nbsp;Citarella, A.&nbsp;Dagens, E.A.&nbsp;Dankwa, **C.A.&nbsp;Donnelly**, J.&nbsp;Dunning, M.&nbsp;Escher, C.&nbsp;Kartsonaki, L.&nbsp;Merson, **M.&nbsp;Pritchard**, J.&nbsp;Wei, P.W.&nbsp;Horby, A.&nbsp;Rojek, P.L.&nbsp;Olliaro.&nbsp;Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort.&nbsp;_Elife_ **10**: e70970 (2021) 
