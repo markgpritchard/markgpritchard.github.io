@@ -88,8 +88,8 @@ _Clinical Radiology_ **63**: 305--11 (2008) [&rarr; Abstract](https://doi.org/10
 
 My [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is at most 4:
 
-Authors of this paper have an Erdős number of at most 1:  
-	**P.&nbsp;Erdős**, **S.J.&nbsp;Taylor**.&nbsp;Some problems concerning the structure of random walk paths.&nbsp;_Acta Mathematica Academiae Scientiarum Hungaricae_ **11**: 137--62 (1960)
+_Authors of this paper have an Erdős number of at most 1:_  
+: **P.&nbsp;Erdős**, **S.J.&nbsp;Taylor**.&nbsp;Some problems concerning the structure of random walk paths.&nbsp;_Acta Mathematica Academiae Scientiarum Hungaricae_ **11**: 137--62 (1960)
 
 Authors of this paper have an Erdős number of at most 2:  
 	J.F.C.&nbsp;Kingman, **S.J.&nbsp;Taylor**, A.G.&nbsp;Hawkes, A.M.&nbsp;Walker, **D.R.&nbsp;Cox**, A.F.M.&nbsp;Smith, B.M.&nbsp;Hill, P.J.&nbsp;Burville, T.&nbsp;Leonard.&nbsp;Random discrete distribution.&nbsp;_Journal of the Royal Statistical Society Series B_ **37**: 1--22 (1975)
