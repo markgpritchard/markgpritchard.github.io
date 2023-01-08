@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mark Pritchard
+title: Mark G. Pritchard
 subtitle: 
 ---
 
