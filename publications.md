@@ -82,7 +82,7 @@ _Archives of Disease in Childhood_ **100**: 112 (2015) [&rarr; Publisher's websi
 
 **Management of patients taking antiplatelet or anticoagulant medication requiring invasive breast procedures: United Kingdom survey of radiologists' and surgeons' current practice**  
 **M.G.&nbsp;Pritchard**, J.N.&nbsp;Townend, W.A.&nbsp;Lester, D.W.&nbsp;England, O.&nbsp;Kearins, S.A.&nbsp;Bradley  
-_Clinical Radiology_ **63**: 305--11 (2008) [&rarr; Abstract](https://doi.org/10.1016/j.crad.2007.09.006)
+_Clinical Radiology_ **63**: 305--11 (2008) [&rarr; Publisher's website](https://doi.org/10.1016/j.crad.2007.09.006)
 
 ## Erdős number
 
