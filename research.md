@@ -23,6 +23,6 @@ By 2021, typical symptoms of fever, cough, shortness of breath, and altered sens
 
 ### Clinical data report
 
-In the first months of the pandemic, many hospitals and research groups reported on the symptoms and outcomes of their local patients. We wrote code to produced a regular [clinical data report](https://www.medrxiv.org/content/10.1101/2020.07.17.20155218v1.article-info) using the international dataset. This included details of symptoms, comorbidities, treatments and outcomes of people admitted to hospital with covid-19.  
+In the first months of the pandemic, many hospitals and research groups reported on the symptoms and outcomes of their local patients. We wrote code to produced a regular clinical data report using the international dataset. This included details of symptoms, comorbidities, treatments and outcomes of people admitted to hospital with covid-19.  
 [&rarr; Free access to the clinical data report](https://www.medrxiv.org/content/10.1101/2020.07.17.20155218v1.article-info)  
 [&rarr; Code to produce the clinical data report](https://github.com/ISARICDataPlatform/ISARIC-COVID-reports)  
