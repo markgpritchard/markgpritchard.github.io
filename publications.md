@@ -4,9 +4,15 @@ title: Publications
 subtitle: 
 ---
 
-This is a list of my publications (updated January 2023). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
+This is a list of my publications (updated March 2023). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
 
 ## Peer-reviewed journal publications
+
+### 2023
+
+**Characteristics and outcomes of an international cohort of 600&thinsp;000 hospitalized patients with COVID-19**  
+C.&nbsp;Kartsonaki, J.K.&nbsp;Baillie, N.G.&nbsp;Barrio, J.&nbsp;Baruch, A.&nbsp;Beane, L.&nbsp;Blumberg, _et al._  
+_International Journal of Epidemiology_: dyad012 (2023) [&rarr; Free full text](https://doi.org/10.1093/ije/dyad012)
 
 ### 2022
 
