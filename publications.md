@@ -21,7 +21,7 @@ B.&nbsp;P.&nbsp;Gonçalves, M.&nbsp;Hall, W.&nbsp;Jassat, V.&nbsp;Balan, S.&nbsp
 _Elife_ **11**: e80556 (2022) [&rarr; Free full text](https://doi.org/10.7554/eLife.80556)
 
 **Symptom-based case definitions for COVID-19: Time and geographical variations for detection at hospital admission among 260,000 patients**  
-J.&nbsp;Baruch, A.&nbsp;Rojek, C.&nbsp;Kartsonaki, B.&nbsp;K.&nbsp;T.&nbsp;Vijayaraghavan, B.&nbsp;P.&nbsp;Gonçalves, **M.G.&nbsp;Pritchard**, L.&nbsp;Merson, J.&nbsp;Dunning, M.&nbsp;Hall, L.&nbsp;Sigfrid, B.&nbsp;W.&nbsp;Citarella, S.&nbsp;Murthy, T.&nbsp;O.&nbsp;Yeabah, P.&nbsp;Olliaro; ISARIC Clinical Characterisation Group  
+J.&nbsp;Baruch, A.&nbsp;Rojek, C.&nbsp;Kartsonaki, B.&nbsp;K.&nbsp;T.&nbsp;Vijayaraghavan, B.&nbsp;P.&nbsp;Gonçalves, **M.&nbsp;G.&nbsp;Pritchard**, L.&nbsp;Merson, J.&nbsp;Dunning, M.&nbsp;Hall, L.&nbsp;Sigfrid, B.&nbsp;W.&nbsp;Citarella, S.&nbsp;Murthy, T.&nbsp;O.&nbsp;Yeabah, P.&nbsp;Olliaro; ISARIC Clinical Characterisation Group  
 _Influenza and Other Respiratory Viruses_ **16**: 1040--50 (2022) [&rarr; Free full text](https://doi.org/10.1111/irv.13039)
 
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
