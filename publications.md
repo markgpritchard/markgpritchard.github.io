@@ -12,7 +12,7 @@ This is a list of my publications (updated March 2023). You can also find my pub
 
 **Characteristics and outcomes of an international cohort of 600&thinsp;000 hospitalized patients with COVID-19**  
 C.&nbsp;Kartsonaki, J.&nbsp;K.&nbsp;Baillie, N.&nbsp;G.&nbsp;Barrio, J.&nbsp;Baruch, A.&nbsp;Beane, L.&nbsp;Blumberg, _et al._  
-_International Journal of Epidemiology_: dyad012 (2023) [&rarr; Free full text](https://doi.org/10.1093/ije/dyad012)
+_International Journal of Epidemiology_ **52**: 355--76 (2023) [&rarr; Free full text](https://doi.org/10.1093/ije/dyad012)
 
 ### 2022
 
