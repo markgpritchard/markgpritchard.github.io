@@ -35,7 +35,7 @@ ISARIC Clinical Characterisation Group; M.&nbsp;D.&nbsp;Hall, J.&nbsp;Baruch, G.
 _Elife_ **10**: e70970 (2021) [&rarr; Free full text](https://doi.org/10.7554/elife.70970)
 
 **COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study**  
-ISARIC Clinical Characterisation Group [Corresponding author: **M.&nbsp;G.&nbsp;Pritchard**]  
+ISARIC Clinical Characterisation Group  
 _Infection_ **49**: 889--905 (2021) [&rarr; Free full text](https://doi.org/10.1007/s15010-021-01599-5)
 
 **Stop COVID Cohort: An observational study of 3480 patients admitted to the Sechenov University Hospital Network in Moscow City for suspected Coronavirus Disease 2019 (COVID-19) infection**  
