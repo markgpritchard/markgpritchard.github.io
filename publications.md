@@ -17,7 +17,7 @@ _International Journal of Epidemiology_ **52**: 355--76 (2023) [&rarr; Free full
 ### 2022
 
 **An international observational study to assess the impact of the Omicron variant emergence on the clinical epidemiology of COVID-19 in hospitalised patients**  
-B.&nbsp;P.&nbsp;Gonçalves, M.&nbsp;Hall, W.&nbsp;Jassat, V.&nbsp;Balan, S.&nbsp;Murthy, C.&nbsp;Kartsonaki, _et al._  
+B.&nbsp;P.&nbsp;Gonçalves, M.&nbsp;Hall, W.&nbsp;Jassat, _et al._  
 _Elife_ **11**: e80556 (2022) [&rarr; Free full text](https://doi.org/10.7554/eLife.80556)
 
 **Symptom-based case definitions for COVID-19: Time and geographical variations for detection at hospital admission among 260,000 patients**  
@@ -25,7 +25,7 @@ J.&nbsp;Baruch, A.&nbsp;Rojek, C.&nbsp;Kartsonaki, B.&nbsp;K.&nbsp;T.&nbsp;Vijay
 _Influenza and Other Respiratory Viruses_ **16**: 1040--50 (2022) [&rarr; Free full text](https://doi.org/10.1111/irv.13039)
 
 **Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol**  
-S.&nbsp;R.&nbsp;Knight, R.&nbsp;K.&nbsp;Gupta, A.&nbsp;Ho, R.&nbsp;Pius, I.&nbsp;Buchan, G.&nbsp;Carson, _et al._  
+S.&nbsp;R.&nbsp;Knight, R.&nbsp;K.&nbsp;Gupta, A.&nbsp;Ho, _et al._  
 _Thorax_ **77**: 606--15 (2022) [&rarr; Free full text](http://doi.org/10.1136/thoraxjnl-2021-217629)
 
 ### 2021
@@ -39,7 +39,7 @@ ISARIC Clinical Characterisation Group
 _Infection_ **49**: 889--905 (2021) [&rarr; Free full text](https://doi.org/10.1007/s15010-021-01599-5)
 
 **Stop COVID Cohort: An observational study of 3480 patients admitted to the Sechenov University Hospital Network in Moscow City for suspected Coronavirus Disease 2019 (COVID-19) infection**  
-D.&nbsp;Munblit, N.&nbsp;A.&nbsp;Nekliudov, P.&nbsp;Bugaeva, O.&nbsp;Blyuss, M.&nbsp;Kislova, E.&nbsp;Listovskaya, _et al._  
+D.&nbsp;Munblit, N.&nbsp;A.&nbsp;Nekliudov, P.&nbsp;Bugaeva, _et al._  
 _Clinical Infectious Diseases_ **73**: 1--11 (2021) [&rarr; Free full text](https://doi.org/10.1093/cid/ciaa1535)
 
 **Evaluating clinical characteristics studies produced early in the Covid-19 pandemic: A systematic review**  
@@ -47,17 +47,17 @@ L.&nbsp;Manoharan, J.&nbsp;W.&nbsp;S.&nbsp;Cattrall, C.&nbsp;Harris, K.&nbsp;New
 _PLoS One_ **16**: e0251250 (2021) [&rarr; Free full text](https://doi.org/10.1371/journal.pone.0251250)
 
 **Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study**  
-R.&nbsp;K.&nbsp;Gupta, E.&nbsp;M.&nbsp;Harrison, A.&nbsp;Ho, A.&nbsp;B.&nbsp;Docherty, S.&nbsp;R.&nbsp;Knight, M.&nbsp;van Smeden, _et al._  
+R.&nbsp;K.&nbsp;Gupta, E.&nbsp;M.&nbsp;Harrison, A.&nbsp;Ho, _et al._  
 _Lancet Respiratory Medicine_ **9**: 349--59 (2021) [&rarr; Free full text](https://doi.org/10.1016/S2213-2600(20)30559-2)
 
 ### 2020
 
 **Risk stratification of patients admitted to hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score**  
-S.&nbsp;R.&nbsp;Knight, A.&nbsp;Ho, R.&nbsp;Pius, I.&nbsp;Buchan, G.&nbsp;Carson, T.&nbsp;M.&nbsp;Drake, _et al._  
+S.&nbsp;R.&nbsp;Knight, A.&nbsp;Ho, R.&nbsp;Pius, _et al._  
 _BMJ_ **370**: m3339 (2020) [&rarr; Free full text](https://doi.org/10.1136/bmj.m3339)
 
 **Clinical characteristics of children and young people admitted to hospital with covid-19 in United Kingdom: prospective multicentre observational cohort study**  
-O.&nbsp;V.&nbsp;Swann, K.&nbsp;A.&nbsp;Holden, L.&nbsp;Turtle, L.&nbsp;Pollock, C.&nbsp;J.&nbsp;Fairfield, T.&nbsp;M.&nbsp;Drake, _et al._  
+O.&nbsp;V.&nbsp;Swann, K.&nbsp;A.&nbsp;Holden, L.&nbsp;Turtle, _et al._  
 _BMJ_ **370**: m3249 (2020) [&rarr; Free full text](https://doi.org/10.1136/bmj.m3249)
 
 **Enhanced recovery following hip and knee arthroplasty: a systematic review of cost-effectiveness evidence**  
