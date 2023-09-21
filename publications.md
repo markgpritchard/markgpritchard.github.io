@@ -8,51 +8,45 @@ This is a list of my publications (updated August 2023). You can also find my pu
 
 ## Peer-reviewed journal publications
 
-**2023**
+### Where I was a lead author
 
-* Characteristics and outcomes of an international cohort of 600&thinsp;000 hospitalized patients with COVID-19 [&rarr; Free full text](https://doi.org/10.1093/ije/dyad012)
+* COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study. _Infection_ (2021) [&rarr; Free full text](https://doi.org/10.1007/s15010-021-01599-5)
 
-**2022**
+* Enhanced recovery following hip and knee arthroplasty: a systematic review of cost-effectiveness evidence. _BMJ Open_ (2020) [&rarr; Free full text](https://doi.org/10.1136/bmjopen-2019-032204) 
 
-* An international observational study to assess the impact of the Omicron variant emergence on the clinical epidemiology of COVID-19 in hospitalised patients [&rarr; Free full text](https://doi.org/10.7554/eLife.80556)
+* Relationship of anxiety with joint pain and its management: A population survey. _Musculoskeletal Care_ (2018) [&rarr; Publisher's website](https://doi.org/10.1002/msc.1243) (2018)
 
-* Symptom-based case definitions for COVID-19: Time and geographical variations for detection at hospital admission among 260,000 patients [&rarr; Free full text](https://doi.org/10.1111/irv.13039)
+* Outcomes in children with protracted bacterial bronchitis confirmed by bronchoscopy. _Archives of Disease in Childhood_ (2015) [&rarr; Publisher's website](https://doi.org/10.1136/archdischild-2014-307284)
 
-* Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol [&rarr; Free full text](http://doi.org/10.1136/thoraxjnl-2021-217629)
+* Management of patients taking antiplatelet or anticoagulant medication requiring invasive breast procedures: United Kingdom survey of radiologists' and surgeons' current practice. _Clinical Radiology_ (2008) [&rarr; Publisher's website](https://doi.org/10.1016/j.crad.2007.09.006)
 
-**2021**
+### Where I was a contributing author
 
-* Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort [&rarr; Free full text](https://doi.org/10.7554/elife.70970)
+* Characteristics and outcomes of an international cohort of 600&thinsp;000 hospitalized patients with COVID-19. _International Journal of Epidemiology_ (2023) [&rarr; Free full text](https://doi.org/10.1093/ije/dyad012)
 
-* COVID-19 symptoms at hospital admission vary with age and sex: results from the ISARIC prospective multinational observational study [&rarr; Free full text](https://doi.org/10.1007/s15010-021-01599-5)
+* An international observational study to assess the impact of the Omicron variant emergence on the clinical epidemiology of COVID-19 in hospitalised patients. _Elife_ (2022) [&rarr; Free full text](https://doi.org/10.7554/eLife.80556)
 
-* Stop COVID Cohort: An observational study of 3480 patients admitted to the Sechenov University Hospital Network in Moscow City for suspected Coronavirus Disease 2019 (COVID-19) infection [&rarr; Free full text](https://doi.org/10.1093/cid/ciaa1535)
+* Symptom-based case definitions for COVID-19: Time and geographical variations for detection at hospital admission among 260,000 patients. _Influenza and Other Respiratory Viruses_ (2022) [&rarr; Free full text](https://doi.org/10.1111/irv.13039)
 
-* Evaluating clinical characteristics studies produced early in the Covid-19 pandemic: A systematic review [&rarr; Free full text](https://doi.org/10.1371/journal.pone.0251250)
+* Prospective validation of the 4C prognostic models for adults hospitalised with COVID-19 using the ISARIC WHO Clinical Characterisation Protocol. _Thorax_ (2022) [&rarr; Free full text](http://doi.org/10.1136/thoraxjnl-2021-217629)
 
-* Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study [&rarr; Free full text](https://doi.org/10.1016/S2213-2600(20)30559-2)
+* Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort. _Elife_ (2021) [&rarr; Free full text](https://doi.org/10.7554/elife.70970)
 
-**2020**
+* Stop COVID Cohort: An observational study of 3480 patients admitted to the Sechenov University Hospital Network in Moscow City for suspected Coronavirus Disease 2019 (COVID-19) infection. _Clinical Infectious Diseases_ (2021) [&rarr; Free full text](https://doi.org/10.1093/cid/ciaa1535)
 
-* Risk stratification of patients admitted to hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score [&rarr; Free full text](https://doi.org/10.1136/bmj.m3339)
+* Evaluating clinical characteristics studies produced early in the Covid-19 pandemic: A systematic review. _PLoS One_ (2021) [&rarr; Free full text](https://doi.org/10.1371/journal.pone.0251250)
 
-* Clinical characteristics of children and young people admitted to hospital with covid-19 in United Kingdom: prospective multicentre observational cohort study [&rarr; Free full text](https://doi.org/10.1136/bmj.m3249)
+* Development and validation of the ISARIC 4C Deterioration model for adults hospitalised with COVID-19: a prospective cohort study. _Lancet Respiratory Medicine_ (2021) [&rarr; Free full text](https://doi.org/10.1016/S2213-2600(20)30559-2)
 
-* Enhanced recovery following hip and knee arthroplasty: a systematic review of cost-effectiveness evidence [&rarr; Free full text](https://doi.org/10.1136/bmjopen-2019-032204)
+* Risk stratification of patients admitted to hospital with covid-19 using the ISARIC WHO Clinical Characterisation Protocol: development and validation of the 4C Mortality Score. _The BMJ_ (2020) [&rarr; Free full text](https://doi.org/10.1136/bmj.m3339)
 
-* The impact of the enhanced recovery pathway and other factors on outcomes and costs following hip and knee replacement: routine data study [&rarr; Free full text](https://doi.org/10.3310/hsdr08040)
+* Clinical characteristics of children and young people admitted to hospital with covid-19 in United Kingdom: prospective multicentre observational cohort study. _The BMJ_ (2020) [&rarr; Free full text](https://doi.org/10.1136/bmj.m3249)
 
-**Before 2020**
+* The impact of the enhanced recovery pathway and other factors on outcomes and costs following hip and knee replacement: routine data study. _Health Services and Delivery Research_ (2020) [&rarr; Free full text](https://doi.org/10.3310/hsdr08040)
 
-* Relationship of anxiety with joint pain and its management: A population survey[&rarr; Abstract](https://doi.org/10.1002/msc.1243)
+* Cost-effectiveness of enhanced recovery in hip and knee replacement: a systematic review protocol. _BMJ Open_ (2018) [&rarr; Free full text](https://doi.org/10.1136/bmjopen-2017-019740)
 
-* Cost-effectiveness of enhanced recovery in hip and knee replacement: a systematic review protocol [&rarr; Free full text](https://doi.org/10.1136/bmjopen-2017-019740)
-
-* The effectiveness and safety of proton beam radiation therapy in children with malignant central nervous system (CNS) tumours: protocol for a systematic review [&rarr; Free full text](https://doi.org/10.1186/s13643-016-0285-6)
-
-* Outcomes in children with protracted bacterial bronchitis confirmed by bronchoscopy [&rarr; Publisher's website](https://doi.org/10.1136/archdischild-2014-307284) 
-
-* Management of patients taking antiplatelet or anticoagulant medication requiring invasive breast procedures: United Kingdom survey of radiologists' and surgeons' current practice [&rarr; Publisher's website](https://doi.org/10.1016/j.crad.2007.09.006)
+* The effectiveness and safety of proton beam radiation therapy in children with malignant central nervous system (CNS) tumours: protocol for a systematic review. _Systematic Reviews_ (2016) [&rarr; Free full text](https://doi.org/10.1186/s13643-016-0285-6)
 
 ## Erdős number
 
