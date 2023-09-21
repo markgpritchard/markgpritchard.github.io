@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 
-This is a list of my publications (updated September 2023). You can also find my publications on my [Google Scholar page](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
+This is a list of my publications (updated September 2023). You can also find [my publications on Google Scholar](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
 
 ## Peer-reviewed journal publications
 
