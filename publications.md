@@ -14,7 +14,7 @@ This is a list of my publications (updated September 2023). You can also find [m
 
 * Enhanced recovery following hip and knee arthroplasty: a systematic review of cost-effectiveness evidence. _BMJ Open_ (2020) [&rarr; Free full text](https://doi.org/10.1136/bmjopen-2019-032204) 
 
-* Relationship of anxiety with joint pain and its management: A population survey. _Musculoskeletal Care_ (2018) [&rarr; Publisher's website](https://doi.org/10.1002/msc.1243) (2018)
+* Relationship of anxiety with joint pain and its management: A population survey. _Musculoskeletal Care_ (2018) [&rarr; Publisher's website](https://doi.org/10.1002/msc.1243) 
 
 * Outcomes in children with protracted bacterial bronchitis confirmed by bronchoscopy. _Archives of Disease in Childhood_ (2015) [&rarr; Publisher's website](https://doi.org/10.1136/archdischild-2014-307284)
 
