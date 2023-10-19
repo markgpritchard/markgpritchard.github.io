@@ -4,7 +4,7 @@ title: Publications
 subtitle: 
 ---
 
-This is a list of my publications (updated September 2023). You can also find [my publications on Google Scholar](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
+This is a list of my publications (updated October 2023). You can also find [my publications on Google Scholar](https://scholar.google.co.uk/citations?user=mQRgzdIAAAAJ&hl=en).
 
 ## Peer-reviewed journal publications
 
@@ -21,6 +21,8 @@ This is a list of my publications (updated September 2023). You can also find [m
 * Management of patients taking antiplatelet or anticoagulant medication requiring invasive breast procedures: United Kingdom survey of radiologists' and surgeons' current practice. _Clinical Radiology_ (2008) [&rarr; Publisher's website](https://doi.org/10.1016/j.crad.2007.09.006)
 
 ### Where I was a contributing author
+
+* The burden and dynamics of hospital-acquired SARS-CoV-2 in England. _Nature_ (2023) [&rarr; Free full text](https://doi.org/10.1038/s41586-023-06634-z)
 
 * Characteristics and outcomes of an international cohort of 600&thinsp;000 hospitalized patients with COVID-19. _International Journal of Epidemiology_ (2023) [&rarr; Free full text](https://doi.org/10.1093/ije/dyad012)
 
@@ -62,4 +64,4 @@ _Authors of this paper have an Erdős number of at most 3:_
 A.&nbsp;C.&nbsp;Ghani, **C.&nbsp;A.&nbsp;Donnelly**, **D.&nbsp;R.&nbsp;Cox**, J.&nbsp;R.&nbsp;Griffin, C.&nbsp;Fraser, T.&nbsp;H.&nbsp;Lam, L.&nbsp;M.&nbsp;Ho, W.&nbsp;S.&nbsp;Chan, R.&nbsp;M.&nbsp;Anderson, A.&nbsp;J.&nbsp;Hedley, G.&nbsp;M.&nbsp;Leung. Methods for estimating the case fatality ratio for a novel, emerging infectious disease. _American Journal of Epidemiology_, **162**: 479--86 (2005)
 
 _Authors of this paper have an Erdős number of at most 4:_  
-ISARIC Clinical Characterisation Group; M.&nbsp;D.&nbsp;Hall, J.&nbsp;Baruch, G.&nbsp;Carson, B.&nbsp;W.&nbsp;Citarella, A.&nbsp;Dagens, E.&nbsp;A.&nbsp;Dankwa, **C.&nbsp;A.&nbsp;Donnelly**, J.&nbsp;Dunning, M.&nbsp;Escher, C.&nbsp;Kartsonaki, L.&nbsp;Merson, **M.&nbsp;Pritchard**, J.&nbsp;Wei, P.&nbsp;W.&nbsp;Horby, A.&nbsp;Rojek, P.&nbsp;L.&nbsp;Olliaro. Ten months of temporal variation in the clinical journey of hospitalised patients with COVID-19: An observational cohort. _Elife_ **10**: e70970 (2021) 
+B.&nbsp;S.&nbsp;Cooper, S.&nbsp;Evans, Y.&nbsp;Jafari, T.&nbsp;M.&nbsp;Pham, Y.&nbsp;Mo, C.&nbsp;Lim, **M.&nbsp;G.&nbsp;Pritchard**, D.&nbsp;Pople, V.&nbsp;Hall, J.&nbsp;Stimson, D.&nbsp;W.&nbsp;Eyre, J.&nbsp;M.&nbsp;Read, **C.&nbsp;A.&nbsp;Donnelly**, P.&nbsp;Horby, C.&nbsp;Watson, S.&nbsp;Funk, J.&nbsp;V.&nbsp;Robotham, G.&nbsp;M.&nbsp;Knight. The burden and dynamics of hospital-acquired SARS-CoV-2 in England. _Nature_ (2023)
