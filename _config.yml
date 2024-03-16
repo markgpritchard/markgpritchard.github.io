@@ -14,7 +14,7 @@ author: Mark G. Pritchard
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: "research"
+#  Research: "research"
 #  Brief CV: "briefcv"
 #  Publications: "publications"
 #  Creativity: "creativity"  
