@@ -28,7 +28,7 @@ M.&nbsp;G.&nbsp;Pritchard, J.&nbsp;N.&nbsp;Townend, W.&nbsp;A.&nbsp;Lester, D.&n
 ### Where I was a contributing author
 
 * Characteristics and outcomes of COVID-19 patients admitted to hospital with and without respiratory symptoms.  
-B.&nbsp;W.&nbsp;Citarella _et al._, _HELIYON_ (accepted 2024) [&rarr; Free full text]https://doi.org/10.1016/j.heliyon.2024.e29591)
+B.&nbsp;W.&nbsp;Citarella _et al._, _HELIYON_ (accepted 2024) [&rarr; Free full text](https://doi.org/10.1016/j.heliyon.2024.e29591)
 
 * The burden and dynamics of hospital-acquired SARS-CoV-2 in England.  
 B.&nbsp;S.&nbsp;Cooper _et al._, _Nature_ (2023) [&rarr; Free full text](https://doi.org/10.1038/s41586-023-06634-z)
