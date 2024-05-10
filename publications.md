@@ -64,7 +64,7 @@ S.&nbsp;R.&nbsp;Knight _et al._, _The BMJ_ (2020) [&rarr; Free full text](https:
 O.&nbsp;V.&nbsp;Swann _et al._, _The BMJ_ (2020) [&rarr; Free full text](https://doi.org/10.1136/bmj.m3249)
 
 * The impact of the enhanced recovery pathway and other factors on outcomes and costs following hip and knee replacement: routine data study.  
-A.&nbsp;Judge, _et al._, _Health Services and Delivery Research_ (2020) [&rarr; Free full text](https://doi.org/10.3310/hsdr08040)
+A.&nbsp;Judge _et al._, _Health Services and Delivery Research_ (2020) [&rarr; Free full text](https://doi.org/10.3310/hsdr08040)
 
 * Cost-effectiveness of enhanced recovery in hip and knee replacement: a systematic review protocol.  
 J.&nbsp;Murphy, M.&nbsp;G.&nbsp;Pritchard, L.&nbsp;Y.&nbsp;Cheng, R.&nbsp;Janarthanan, J.&nbsp;Leal, _BMJ Open_ (2018) [&rarr; Free full text](https://doi.org/10.1136/bmjopen-2017-019740)
