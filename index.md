@@ -26,7 +26,7 @@ You can also find [my publications on Google Scholar](https://scholar.google.co.
 
 ### Where I was a contributing author
 
-* Characteristics and outcomes of COVID-19 patients admitted to hospital with and without respiratory symptoms. _Heliyon_ (2024) [&rarr; Free full text]https://doi.org/10.1016/j.heliyon.2024.e29591)
+* Characteristics and outcomes of COVID-19 patients admitted to hospital with and without respiratory symptoms. _Heliyon_ (2024) [&rarr; Free full text](https://doi.org/10.1016/j.heliyon.2024.e29591)
 
 * The burden and dynamics of hospital-acquired SARS-CoV-2 in England. _Nature_ (2023) [&rarr; Free full text](https://doi.org/10.1038/s41586-023-06634-z)
 
